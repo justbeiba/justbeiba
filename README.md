@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Beibarys 👋
 
-<!--
-**justbeiba/justbeiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE graduate from Nazarbayev University, Kazakhstan.
+I'm working toward AI hardware and safety engineering.
 
-Here are some ideas to get you started:
+## What I'm focused on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building in public** — documenting everything I learn as I go.
+
+## Currently learning
+
+Progress tracked in [`learning-log`](https://github.com/Beiba/learning-log).
+
+## Background
+
+B.Sc. Electrical & Computer Engineering — Nazarbayev University, Astana, Kazakhstan.
