@@ -9,7 +9,7 @@ I'm working toward AI hardware and safety engineering.
 
 ## Currently learning
 
-Progress tracked in [`learning-log`](https://github.com/Beiba/learning-log).
+Progress tracked in [`learning-log`](https://github.com/justbeiba/learning-log).
 
 ## Background
 
